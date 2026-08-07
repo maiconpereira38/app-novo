@@ -1,0 +1,6 @@
+{
+  "name": "Primeiro APK",
+  "description": "App interativo para aprender a gerar e instalar o seu arquivo APK no Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
